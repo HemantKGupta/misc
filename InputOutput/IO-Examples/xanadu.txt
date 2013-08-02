@@ -1,7 +1,0 @@
-changes to a file that you do not want to save :q!
-$     to end of line
-
-/string        search forward for string (end with Enter)
-?string        search backward for string (end with Enter)
-n       	   repeat last search in the same direction
-N       	   repeat last search in the opposite direction
